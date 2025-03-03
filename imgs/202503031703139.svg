@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   inkscape:version="1.0 (4035a4fb49, 2020-05-01)"
+   sodipodi:docname="Kia Motors 1964 Logo.svg"
+   id="svg13"
+   version="1.1"
+   overflow="hidden"
+   height="509.70874"
+   width="500">
+  <metadata
+     id="metadata17">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <sodipodi:namedview
+     inkscape:current-layer="svg13"
+     inkscape:window-maximized="1"
+     inkscape:window-y="-11"
+     inkscape:window-x="-11"
+     inkscape:cy="332.89883"
+     inkscape:cx="536.20628"
+     inkscape:zoom="0.65441687"
+     showgrid="false"
+     id="namedview15"
+     inkscape:window-height="986"
+     inkscape:window-width="1920"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0"
+     guidetolerance="10"
+     gridtolerance="10"
+     objecttolerance="10"
+     borderopacity="1"
+     bordercolor="#666666"
+     pagecolor="#ffffff" />
+  <defs
+     id="defs5">
+    <clipPath
+       id="clip0">
+      <rect
+         id="rect2"
+         height="106"
+         width="105"
+         y="275"
+         x="993" />
+    </clipPath>
+    <clipPath
+       id="clip0-6">
+      <rect
+         x="993"
+         y="275"
+         width="105"
+         height="106"
+         id="rect2-5" />
+    </clipPath>
+    <clipPath
+       id="clip0-6-7">
+      <rect
+         id="rect2-5-1"
+         height="106"
+         width="105"
+         y="275"
+         x="993" />
+    </clipPath>
+  </defs>
+  <path
+     style="fill:#0f6535;fill-opacity:1;stroke-width:4.85437"
+     d="M 500,0 294.48573,19.066672 C 279.28994,16.151345 263.61971,14.563107 247.57281,14.563107 110.82524,14.563107 0,125.40291 0,262.13591 c 0,136.73301 110.82524,247.57283 247.57281,247.57283 136.74757,0 247.57282,-110.83982 247.57282,-247.57283 0,-70.64536 -29.63314,-134.32615 -77.09156,-179.431495 z M 247.57281,86.752881 c 18.30294,0 35.94635,2.808379 52.53527,8.011603 L 160.19417,237.86407 H 264.31659 L 367.24438,133.98816 c 34.26219,32.01021 55.71146,77.56182 55.71146,128.14775 0,96.86408 -78.53837,175.39252 -175.38303,175.39252 -96.84466,0 -175.392516,-78.52844 -175.392516,-175.39252 0,-96.86407 78.547856,-175.383029 175.392516,-175.383029 z"
+     id="path7" />
+</svg>
